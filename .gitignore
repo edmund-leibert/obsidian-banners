@@ -3,3 +3,6 @@ dist/
 .hotreload
 .env
 .vscode
+
+styles.css
+main.js
